@@ -1,0 +1,22 @@
+System.currentTimeMillis()
+Date
+Name
+Team
+Competition
+Match Number
+Design Type
+Stalling (Y/N)
+Stalling Details/
+Driver Skill
+Intake
+Avg. Cone Speed
+Avg. Mobile Goal Time
+Zone/
+Flip
+Drive Speed
+Lift Speed
+Max. Mobile Stack
+Max. Pole Stack
+Strategy
+Summary
+AdminEdit String
